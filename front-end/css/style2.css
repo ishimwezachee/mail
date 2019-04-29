@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+  
+  }
+  
+  body{
+    background-image: url('../images/backround.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+  }
+  .container{
+    background-color: rgb(27, 4, 131);
+    border: 2px solid rgb(255, 255, 255);
+    height: 80%;
+    width: 30%;
+    margin: auto;
+    border-radius: 30px;
+  }
+  .input{
+  
+    margin: auto;
+    width: 50%;
+    
+    
+  }
+  input{
+    width: 250px;
+    height: 30px;
+    color:white;  
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+  }
+  input[type="button"] {
+    width: 255px;
+  }
+  .text{
+    padding-top: 160px;
+  }
+  h1{
+    
+    text-align: center;
+  }
+  h4{
+    text-align: center;
+  }
